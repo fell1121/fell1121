@@ -13,14 +13,10 @@
 
 
 <h1 align="center">Hi 👋, I'm Haishan Yang</h1>
-<h3 align="center">PhD student in Health Service Research, Policy &
+<h3 align="center">PhD student in Health Service Research, Policy & Administration
                                            
                                            
-                                           
- HEALTH SERVICES RESEARCH, POLICY & ADMINISTRATION PHD
-                                    
-                                           
-
+                                        
 <h3 align="left"> 🔨 Languages and technologies:</h3>
 <p align="left"> <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://rstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a> 
 <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
