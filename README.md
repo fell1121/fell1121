@@ -16,14 +16,9 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Niccolò</h1>
-<h3 align="center">PhD stud in DS applied to healthcare & Freelancer</h3>
-
-                                                                         .-.
-                                            (___________________________()6 `-,
-                                            (   ______________________   /''"`
-                                            //\\                      //\\
-                                            "" ""                     "" ""
+<h1 align="center">Hi 👋, I'm Haishan Yang</h1>
+<h3 align="center">PhD student in 
+                                                         
 
 <h3 align="left"> 🔨 Languages and technologies:</h3>
 <p align="left"> <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://rstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a> 
