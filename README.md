@@ -1,6 +1,4 @@
-### Hi there 👋
-
-
+### Hi there 👋 I’m currently aPhD student in Health Service Research, Policy & Administration
 - 🔭 I’m currently working on the impact evaluation of a drug price reduction policy called 340B.
 - 🌱 I’m currently learning spatial statistics.
 - 👯 I’m looking to collaborate on research in environmental economics, health economics.
