@@ -5,14 +5,6 @@
 - ⚡ Fun fact: I am a big fan of soccer.
 
 
-# my logo
-<a href="https://haishan.com" target="_blank"> <img src="https://d32ogoqmya1dw8.cloudfront.net/images/departments/dept/university_mn_logo.png" alt="aws" width="40" height="40"/> </a>
-
-
-
-<h1 align="center">Hi 👋, I'm Haishan Yang</h1>
-<h3 align="center">PhD student in Health Service Research, Policy & Administration
-                                           
                                            
                                         
 <h3 align="left"> 🔨 Languages and technologies:</h3>
